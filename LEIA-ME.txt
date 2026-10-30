@@ -1,9 +1,0 @@
-PUBLICAR GRATIS NO GITHUB PAGES (sem comprar dominio)
-1. No github.com, crie um repositorio PUBLICO (ex.: santa-cruz).
-2. Add file > Upload files: envie TODOS os arquivos desta pasta (index.html, sw.js, manifest.webmanifest, icon-192.png, icon-512.png). Commit.
-3. Settings > Pages > Source: "Deploy from a branch" > Branch: main / (root) > Save.
-4. Em ~1 minuto o link fica: https://SEU-USUARIO.github.io/santa-cruz/
-5. Envie o link as pessoas. No Chrome do Android: menu (3 pontos) > "Instalar app" (ou "Adicionar a tela inicial").
-   No iPhone (Safari): Compartilhar > Adicionar a Tela de Inicio.
-Depois de aberto uma vez, funciona offline e os dados ficam salvos no celular de cada um.
-Atualizar: substitua o index.html no repositorio (aumente o V='sc-v1' no sw.js para sc-v2).
